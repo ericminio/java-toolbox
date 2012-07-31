@@ -1,4 +1,4 @@
-package org.ericminio.simpleframework;
+package org.ericminio.simpleframework.builder;
 
 import org.simpleframework.http.Response;
 
